@@ -1,0 +1,386 @@
+{
+  "version": 1,
+  "initialized": true,
+  "bot_position": 0,
+  "next_sequence": 48,
+  "orders": {
+    "1578135689": {
+      "role": "B",
+      "side": "buy",
+      "price": 2724.0,
+      "size": 1,
+      "client_order_id": "DLR-B-1-44ee88",
+      "handled": true,
+      "fill_price": 2723.5
+    },
+    "1578135733": {
+      "role": "B",
+      "side": "buy",
+      "price": 2723.0,
+      "size": 1,
+      "client_order_id": "DLR-B-2-c8d9d5",
+      "handled": false
+    },
+    "1578135768": {
+      "role": "B",
+      "side": "buy",
+      "price": 2722.0,
+      "size": 1,
+      "client_order_id": "DLR-B-3-afb3e7",
+      "handled": false
+    },
+    "1578135808": {
+      "role": "B",
+      "side": "buy",
+      "price": 2721.0,
+      "size": 1,
+      "client_order_id": "DLR-B-4-905d3e",
+      "handled": false
+    },
+    "1578135839": {
+      "role": "B",
+      "side": "buy",
+      "price": 2720.0,
+      "size": 1,
+      "client_order_id": "DLR-B-5-2118fb",
+      "handled": false
+    },
+    "1578135873": {
+      "role": "B",
+      "side": "buy",
+      "price": 2719.0,
+      "size": 1,
+      "client_order_id": "DLR-B-6-1cb23e",
+      "handled": false
+    },
+    "1578135911": {
+      "role": "B",
+      "side": "buy",
+      "price": 2718.0,
+      "size": 1,
+      "client_order_id": "DLR-B-7-f1865a",
+      "handled": false
+    },
+    "1578135944": {
+      "role": "B",
+      "side": "buy",
+      "price": 2717.0,
+      "size": 1,
+      "client_order_id": "DLR-B-8-05445f",
+      "handled": false
+    },
+    "1578135977": {
+      "role": "B",
+      "side": "buy",
+      "price": 2716.0,
+      "size": 1,
+      "client_order_id": "DLR-B-9-befed7",
+      "handled": false
+    },
+    "1578136019": {
+      "role": "B",
+      "side": "buy",
+      "price": 2715.0,
+      "size": 1,
+      "client_order_id": "DLR-B-10-2b9350",
+      "handled": false
+    },
+    "1578136061": {
+      "role": "B",
+      "side": "buy",
+      "price": 2714.0,
+      "size": 1,
+      "client_order_id": "DLR-B-11-93601a",
+      "handled": false
+    },
+    "1578136100": {
+      "role": "B",
+      "side": "buy",
+      "price": 2713.0,
+      "size": 1,
+      "client_order_id": "DLR-B-12-bee79e",
+      "handled": false
+    },
+    "1578136132": {
+      "role": "B",
+      "side": "buy",
+      "price": 2712.0,
+      "size": 1,
+      "client_order_id": "DLR-B-13-6e248f",
+      "handled": false
+    },
+    "1578136164": {
+      "role": "B",
+      "side": "buy",
+      "price": 2711.0,
+      "size": 1,
+      "client_order_id": "DLR-B-14-3c6f7e",
+      "handled": false
+    },
+    "1578136214": {
+      "role": "B",
+      "side": "buy",
+      "price": 2710.0,
+      "size": 1,
+      "client_order_id": "DLR-B-15-96fe7b",
+      "handled": false
+    },
+    "1578136267": {
+      "role": "B",
+      "side": "buy",
+      "price": 2709.0,
+      "size": 1,
+      "client_order_id": "DLR-B-16-e7329a",
+      "handled": false
+    },
+    "1578136305": {
+      "role": "B",
+      "side": "buy",
+      "price": 2708.0,
+      "size": 1,
+      "client_order_id": "DLR-B-17-2dd98f",
+      "handled": false
+    },
+    "1578136351": {
+      "role": "B",
+      "side": "buy",
+      "price": 2707.0,
+      "size": 1,
+      "client_order_id": "DLR-B-18-044a55",
+      "handled": false
+    },
+    "1578136397": {
+      "role": "B",
+      "side": "buy",
+      "price": 2706.0,
+      "size": 1,
+      "client_order_id": "DLR-B-19-a18cec",
+      "handled": false
+    },
+    "1578136437": {
+      "role": "B",
+      "side": "buy",
+      "price": 2705.0,
+      "size": 1,
+      "client_order_id": "DLR-B-20-0b7cef",
+      "handled": false
+    },
+    "1578136482": {
+      "role": "B",
+      "side": "buy",
+      "price": 2704.0,
+      "size": 1,
+      "client_order_id": "DLR-B-21-88e835",
+      "handled": false
+    },
+    "1578136520": {
+      "role": "B",
+      "side": "buy",
+      "price": 2703.0,
+      "size": 1,
+      "client_order_id": "DLR-B-22-1d6caa",
+      "handled": false
+    },
+    "1578136546": {
+      "role": "B",
+      "side": "buy",
+      "price": 2702.0,
+      "size": 1,
+      "client_order_id": "DLR-B-23-66df5f",
+      "handled": false
+    },
+    "1578136576": {
+      "role": "B",
+      "side": "buy",
+      "price": 2701.0,
+      "size": 1,
+      "client_order_id": "DLR-B-24-6e6d6a",
+      "handled": false
+    },
+    "1578136611": {
+      "role": "B",
+      "side": "buy",
+      "price": 2700.0,
+      "size": 1,
+      "client_order_id": "DLR-B-25-2421f3",
+      "handled": false
+    },
+    "1578136642": {
+      "role": "B",
+      "side": "buy",
+      "price": 2699.0,
+      "size": 1,
+      "client_order_id": "DLR-B-26-ae1b60",
+      "handled": false
+    },
+    "1578136680": {
+      "role": "B",
+      "side": "buy",
+      "price": 2698.0,
+      "size": 1,
+      "client_order_id": "DLR-B-27-44240b",
+      "handled": false
+    },
+    "1578136727": {
+      "role": "B",
+      "side": "buy",
+      "price": 2697.0,
+      "size": 1,
+      "client_order_id": "DLR-B-28-ec6986",
+      "handled": false
+    },
+    "1578136774": {
+      "role": "B",
+      "side": "buy",
+      "price": 2696.0,
+      "size": 1,
+      "client_order_id": "DLR-B-29-542c69",
+      "handled": false
+    },
+    "1578136827": {
+      "role": "B",
+      "side": "buy",
+      "price": 2695.0,
+      "size": 1,
+      "client_order_id": "DLR-B-30-09c31e",
+      "handled": false
+    },
+    "1578136878": {
+      "role": "B",
+      "side": "buy",
+      "price": 2694.0,
+      "size": 1,
+      "client_order_id": "DLR-B-31-0d02a6",
+      "handled": false
+    },
+    "1578136924": {
+      "role": "B",
+      "side": "buy",
+      "price": 2693.0,
+      "size": 1,
+      "client_order_id": "DLR-B-32-78ecac",
+      "handled": false
+    },
+    "1578136961": {
+      "role": "B",
+      "side": "buy",
+      "price": 2692.0,
+      "size": 1,
+      "client_order_id": "DLR-B-33-8b4b08",
+      "handled": false
+    },
+    "1578136993": {
+      "role": "B",
+      "side": "buy",
+      "price": 2691.0,
+      "size": 1,
+      "client_order_id": "DLR-B-34-fec98f",
+      "handled": false
+    },
+    "1578137042": {
+      "role": "B",
+      "side": "buy",
+      "price": 2690.0,
+      "size": 1,
+      "client_order_id": "DLR-B-35-50a5b5",
+      "handled": false
+    },
+    "1578137077": {
+      "role": "B",
+      "side": "buy",
+      "price": 2689.0,
+      "size": 1,
+      "client_order_id": "DLR-B-36-1cd4fe",
+      "handled": false
+    },
+    "1578137124": {
+      "role": "B",
+      "side": "buy",
+      "price": 2688.0,
+      "size": 1,
+      "client_order_id": "DLR-B-37-75d0fb",
+      "handled": false
+    },
+    "1578137158": {
+      "role": "B",
+      "side": "buy",
+      "price": 2687.0,
+      "size": 1,
+      "client_order_id": "DLR-B-38-487fca",
+      "handled": false
+    },
+    "1578137203": {
+      "role": "B",
+      "side": "buy",
+      "price": 2686.0,
+      "size": 1,
+      "client_order_id": "DLR-B-39-ca07d9",
+      "handled": false
+    },
+    "1578137231": {
+      "role": "B",
+      "side": "buy",
+      "price": 2685.0,
+      "size": 1,
+      "client_order_id": "DLR-B-40-7b8d42",
+      "handled": false
+    },
+    "1578137265": {
+      "role": "B",
+      "side": "buy",
+      "price": 2684.0,
+      "size": 1,
+      "client_order_id": "DLR-B-41-69cd91",
+      "handled": false
+    },
+    "1578137310": {
+      "role": "B",
+      "side": "buy",
+      "price": 2683.0,
+      "size": 1,
+      "client_order_id": "DLR-B-42-44cac8",
+      "handled": false
+    },
+    "1578137348": {
+      "role": "B",
+      "side": "buy",
+      "price": 2682.0,
+      "size": 1,
+      "client_order_id": "DLR-B-43-7ece12",
+      "handled": false
+    },
+    "1578137380": {
+      "role": "B",
+      "side": "buy",
+      "price": 2681.0,
+      "size": 1,
+      "client_order_id": "DLR-B-44-37b25b",
+      "handled": false
+    },
+    "1578137433": {
+      "role": "B",
+      "side": "buy",
+      "price": 2680.0,
+      "size": 1,
+      "client_order_id": "DLR-B-45-05adad",
+      "handled": false
+    },
+    "1578137484": {
+      "role": "S",
+      "side": "sell",
+      "price": 2726.5,
+      "size": 1,
+      "client_order_id": "DLR-S-46-03f053",
+      "handled": true,
+      "fill_price": 2726.5
+    },
+    "1578146456": {
+      "role": "B",
+      "side": "buy",
+      "price": 2723.5,
+      "size": 1,
+      "client_order_id": "DLR-B-47-9a9f09",
+      "handled": false
+    }
+  }
+}
